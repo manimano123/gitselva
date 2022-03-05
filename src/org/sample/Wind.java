@@ -34,6 +34,8 @@ public class Wind {
 			System.out.println(file2);
 			
 		}
+		
+		System.out.println("hello java");
 	}
 
 }
