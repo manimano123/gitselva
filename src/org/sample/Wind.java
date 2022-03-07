@@ -35,7 +35,14 @@ public class Wind {
 			
 		}
 		
+		System.out.println("baiya perf2");
+		
 		System.out.println("hello java");
+		
+		
+		
+		
+		
 	}
 
 }
