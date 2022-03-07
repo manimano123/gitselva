@@ -35,6 +35,8 @@ public class Wind {
 			
 		}
 		
+		System.out.println("perfhellodfsd");
+		
 		System.out.println("hello java");
 	}
 
